@@ -1,6 +1,7 @@
 # notesbook
 <!--hello world-->
 <!doctype html>
+<html>
 <head>
 <meta charset="utf-8">
 <title>My first GitHub Repository</title>
