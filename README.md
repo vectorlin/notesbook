@@ -1,7 +1,5 @@
 # notesbook
 <!--hello world-->
-<!doctype html>
-<html>
 <head>
 <meta charset="utf-8">
 <title>My first GitHub Repository</title>
@@ -11,4 +9,4 @@
   <p>How are you?</p>
   <p>Fine,thank you!</p>
 </body>
-</html>
+
