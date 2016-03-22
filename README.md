@@ -20,10 +20,13 @@
   juqery.ui
   <br>
   ——3.21
+  <br>
   @*  这中间的内容是注释，这是Razor语法，适用于razor语法页面，比如常见的*.cshtml  *@
+  <br>
   Jquery插件 easyUI属性汇总 http://www.jb51.net/article/26077.htm
   <br>
   ——3.22
+  <br>
   13款实用的JS插件&前端资源 https://www.shiyanlou.com/questions/3524
 </body>
 
