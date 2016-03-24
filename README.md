@@ -1,10 +1,5 @@
 # notesbook
 <!--hello world-->
-<head>
-<meta charset="utf-8">
-<title>My first GitHub Repository</title>
-</head>
-<body>
   jquery-1.11.3
   easyui
   spss
@@ -30,6 +25,5 @@
   ——3.23
   <br>
   ie兼容css3 http://www.360doc.com/content/14/0718/18/21412_395331554.shtml
-</body>
-</html>
+
 
