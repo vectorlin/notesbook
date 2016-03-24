@@ -29,8 +29,11 @@
   <br>
   13款实用的JS插件&前端资源 https://www.shiyanlou.com/questions/3524
   <br>
-  淘宝前端团队http://taobaofed.org/
+  淘宝前端团队 http://taobaofed.org/
   <br>
+  ——3.23
+  <br>
+  ie兼容css3 http://www.360doc.com/content/14/0718/18/21412_395331554.shtml
 </body>
 </html>
 
