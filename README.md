@@ -5,10 +5,6 @@
 <title>My first GitHub Repository</title>
 </head>
 <body>
-  <h1>Hello World</h1>
-  <p>How are you?</p>
-  <p>Fine,thank you!</p>
-  <p>Happy New Year</p>
   jquery-1.11.3
   easyui
   spss
