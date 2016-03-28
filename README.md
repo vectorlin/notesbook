@@ -36,5 +36,7 @@
   <br>
   移动页面开发资源总结 http://www.imooc.com/article/1542
   <br>
+  jQuery的一些实用技巧 https://segmentfault.com/a/1190000004684984
+  <br>
   ——3.26
   <br>
