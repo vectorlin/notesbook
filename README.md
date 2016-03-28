@@ -34,5 +34,6 @@
   <br>
   jQuery 3新特性 http://web.jobbole.com/85429/
   <br>
+  移动页面开发资源总结 http://www.imooc.com/article/1542
   ——3.26
   <br>
