@@ -62,3 +62,9 @@
   <br>
   http://www.imooc.com/article/1449
   <br>
+  ——4.13
+  <br>
+  http://web.jobbole.com/85589/
+  <br>
+  http://www.webhek.com/7-essential-javascript-functions
+  <br>
