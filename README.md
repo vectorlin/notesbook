@@ -35,18 +35,18 @@
   http://283433775.iteye.com/blog/720895    
   http://www.htmleaf.com/jQuery/Layout-Interface/201501241270.html    
   http://blog.csdn.net/small_rice_/article/details/22006181    
-  ——4.20    
-  http://www.ithao123.cn/content-3751220.html
-  http://www.cnblogs.com/Olive116/p/3634480.html
-  ——4.21
-  http://blog.csdn.net/imageprocessing2/article/details/40437909
-  http://www.mamicode.com/info-detail-490824.html
-  ——4.26
-  http://pizida.com/technology/2016/03/03/use-jekyll-create-blog-on-github/
-  http://www.tuicool.com/articles/ruMVjyN
-  http://justcoding.iteye.com/blog/1954653
-  http://www.ezlippi.com/blog/2015/03/github-pages-blog.html
-  http://www.tuicool.com/articles/neymea
-  http://wiki.jikexueyuan.com/project/chrome-devtools/tips-and-tricks.html
-  http://jingyan.baidu.com/article/c74d60006bea410f6a595d17.html
-  http://wowubuntu.com/markdown/
+  ——4.20     
+  http://www.ithao123.cn/content-3751220.html   
+  http://www.cnblogs.com/Olive116/p/3634480.html   
+  ——4.21   
+  http://blog.csdn.net/imageprocessing2/article/details/40437909   
+  http://www.mamicode.com/info-detail-490824.html    
+  ——4.26    
+  http://pizida.com/technology/2016/03/03/use-jekyll-create-blog-on-github/    
+  http://www.tuicool.com/articles/ruMVjyN     
+  http://justcoding.iteye.com/blog/1954653    
+  http://www.ezlippi.com/blog/2015/03/github-pages-blog.html    
+  http://www.tuicool.com/articles/neymea    
+  http://wiki.jikexueyuan.com/project/chrome-devtools/tips-and-tricks.html   
+  http://jingyan.baidu.com/article/c74d60006bea410f6a595d17.html    
+  http://wowubuntu.com/markdown/   
