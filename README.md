@@ -94,3 +94,5 @@
   http://www.ezlippi.com/blog/2015/03/github-pages-blog.html
   <br>
   http://www.tuicool.com/articles/neymea
+  <br>
+  http://wiki.jikexueyuan.com/project/chrome-devtools/tips-and-tricks.html
