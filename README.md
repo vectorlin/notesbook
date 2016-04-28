@@ -72,4 +72,5 @@
   http://wetest.qq.com/cloud/index.php/help/cloudindex
   ---
 ###4.28   
-  http://www.emoji-cheat-sheet.com/
+  http://www.emoji-cheat-sheet.com/    
+  http://www.feweekly.com/issues    
