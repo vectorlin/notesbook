@@ -81,5 +81,6 @@
   http://web.jobbole.com/85913/   
   ---
 ###5.5
-  http://blog.rdiframework.net/678.html
+  http://blog.rdiframework.net/678.html   
+  http://blog.rdiframework.net/65.html
   ---
