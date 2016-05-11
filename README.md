@@ -98,5 +98,6 @@
   http://www.cnblogs.com/qieguo/p/5457040.html   
   http://www.kuqin.com/shuoit/20160427/351759.html   
   http://www.zhangxinxu.com/wordpress/2014/06/deep-understand-svg-path-bezier-curves-command/   
+  http://www.zhangxinxu.com/wordpress/2013/08/%E8%B4%9D%E5%A1%9E%E5%B0%94%E6%9B%B2%E7%BA%BF-cubic-bezier-css3%E5%8A%A8%E7%94%BB-svg-canvas/   
   ---
 
