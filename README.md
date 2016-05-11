@@ -25,7 +25,7 @@
   http://lihongxun945.github.io/jquery-weui/components   
   http://www.w3cplus.com/mobile/ratchet-case-1.html   
   ---
-###4.4   
+###4.04   
   http://codepen.io/progrape/pens/tags/6/?selected_tag=weui    
   https://mp.weixin.qq.com/wiki/2/ae9782fb42e47ad79eb7b361c2149d16.html   
   http://www.bootcss.com/p/zeptojs/   
@@ -80,11 +80,11 @@
 ###4.29   
   http://web.jobbole.com/85913/   
   ---
-###5.5
+###5.05
   http://blog.rdiframework.net/678.html   
   http://blog.rdiframework.net/65.html
   ---
-###5.9
+###5.09
   https://segmentfault.com/a/1190000002551952   
   http://www.w2bc.com/Article/50764   
   ---
