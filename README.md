@@ -122,4 +122,5 @@
   http://www.cnblogs.com/sharpxiajun/p/4096242.html   
   https://developer.mozilla.org/zh-CN/docs/Web/JavaScript   
   http://ljinkai.github.io/2015/12/26/chrome-dev-tools/   
+  http://bbs.blueidea.com/thread-3031823-1-2.html    
   ---
