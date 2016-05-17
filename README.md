@@ -121,4 +121,5 @@
   http://www.cnblogs.com/index-html/   
   http://www.cnblogs.com/sharpxiajun/p/4096242.html   
   https://developer.mozilla.org/zh-CN/docs/Web/JavaScript   
+  http://ljinkai.github.io/2015/12/26/chrome-dev-tools/   
   ---
