@@ -125,3 +125,6 @@
   http://bbs.blueidea.com/thread-3031823-1-2.html    
   http://www.cnblogs.com/rubylouvre/tag/javascript/   
   ---
+###5.18
+  https://segmentfault.com/a/1190000005135445#articleHeader0   
+  ---
