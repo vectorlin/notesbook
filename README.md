@@ -131,3 +131,6 @@
   http://bbs.csdn.net/topics/390813991   
   http://blog.csdn.net/jwzhangjie/article/details/40391537   
   ---
+###5.25
+  http://www.dabu.info/android-command-create-avd.html   
+  ---
